@@ -6,7 +6,8 @@
             "dom",
             "es2017"
         ],
-        "noImplicitAny": false
+        "noImplicitAny": false,
+        "skipLibCheck": true
     },
     "files": [
         "index.ts"
